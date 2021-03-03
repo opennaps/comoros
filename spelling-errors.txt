@@ -56,7 +56,7 @@ Dizan
 Domoni
 DSCRP
 Dugon
-dugong
+Dugong
 eau
 EEZ
 El
@@ -94,7 +94,7 @@ hydrographic
 hydrologic
 hydrological
 HYDROMET
-Hydropower
+hydropower
 Hyogo
 INDC
 insalubrity
@@ -152,7 +152,7 @@ pluviometry
 PRGS
 PRGSP
 ProgEau
-programme
+Programme
 programmes
 Projet
 roadmap

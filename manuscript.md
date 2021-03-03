@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/comoros/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/comoros/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/comoros/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/comoros/v/0eb04a402fa326f5ef09039c7a3c47fc4677c228/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/comoros/v/0eb04a402fa326f5ef09039c7a3c47fc4677c228/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/comoros/v/0eb04a402fa326f5ef09039c7a3c47fc4677c228/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/))
+([permalink](https://opennaps.github.io/comoros/v/0eb04a402fa326f5ef09039c7a3c47fc4677c228/))
 was automatically generated
-from [opennaps/comoros@80c96e6](https://github.com/opennaps/comoros/tree/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3)
+from [opennaps/comoros@0eb04a4](https://github.com/opennaps/comoros/tree/0eb04a402fa326f5ef09039c7a3c47fc4677c228)
 on March 3, 2021.
 </em></small>
 
@@ -424,7 +424,7 @@ xxxx
 
 ## Climate Change Adaptation Assessment
 
-_Figure 1 Map of the Union of the Comoros _
+_Figure 1 Map of the Union of the Comoros_
 
 ![image](https://user-images.githubusercontent.com/64316315/109801571-f0751480-7c1e-11eb-91ec-47ca6ad544ea.png)
 
