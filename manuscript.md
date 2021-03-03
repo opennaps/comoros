@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://opennaps.github.io/comoros/" />
   <meta name="citation_pdf_url" content="https://opennaps.github.io/comoros/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://opennaps.github.io/comoros/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/" />
-  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/" />
-  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/" />
+  <meta name="manubot_html_url_versioned" content="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/))
+([permalink](https://opennaps.github.io/comoros/v/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3/))
 was automatically generated
-from [opennaps/comoros@240142a](https://github.com/opennaps/comoros/tree/240142a84116c4193d4699c252e62567fd321418)
+from [opennaps/comoros@80c96e6](https://github.com/opennaps/comoros/tree/80c96e6fb7bf1f6a9edef0e849f964b603ccf6e3)
 on March 3, 2021.
 </em></small>
 
@@ -424,7 +424,748 @@ xxxx
 
 ## Climate Change Adaptation Assessment
 
-xxx
+_Figure 1 Map of the Union of the Comoros _
+
+![image](https://user-images.githubusercontent.com/64316315/109801571-f0751480-7c1e-11eb-91ec-47ca6ad544ea.png)
+
+Source: (Union of Comoros: National Marine Ecosystem Diagnostic Analysis (MEDA). Agulhas and Somali Current Large Marine Ecosystems (ASCLME) Project., n.d.) 
+
+#### Current Climate (Baseline) 
+The Union of the Comoros, an archipelago in the Indian Ocean, is characterized by an evolution of microclimates that is impacted by its topological relief. The 
+country’s weather is influenced by south and south-east trade winds from the months of April to November, which carry a relatively cool and dry tropical current 
+between the months of May and October. The hot and rainy season descends in the months of December to March, when the north-west monsoon prevails. The warmest 
+period is from November to April. The hot season is marked by humidity and frequent storms due to the tropical depressions near the archipelago or by the passage of 
+the intertropical convergence front. The coastal zone exhibits an average temperature of 27oC, with a maximum temperature variation between 31oC and 35oC and a 
+minimum of about 23oC. The cool, dry period known as the rainy season, has minimal humidity, comparatively lower temperatures and presence of winds or sea breezes. 
+In low altitudes the minimum average temperature ranges between 18 oC and 19oC. Annual rainfall ranges between 1000mm and 5000mm depending on the region and is 
+influenced by the altitude and exposure to strong winds. The Western regions of the Comoros, for instance in Grand-Comoro, the highest annual rainfall recorded is 
+above 4000mm at the elevation of the Karthala forest due to exposure to monsoons and a higher topological relief. Whereas, the islands of Mohéli and Anjouan exhibit 
+the highest range of annual rainfall between 2500mm and 4000mm.  
+
+#### Exposure to Climate Impacts and Risks 
+The Comoros NAPA suggests that current and future climate change impacts are expected to undermine development gains, especially in the fight to eradicate poverty 
+and ensure socioeconomic security. Against a weak economic system, the income opportunities and prospects that ensure alternative livelihoods in response to climate 
+change are very limited. Climate change presents a unique challenge to the Comoros, which has to deal with the impacts and risks of climate change. The challenges 
+that countries face, particularly Small Island Developing States (SIDS), is magnified due to their small geographic territory, isolation and exposure. What is more, 
+development gains are threatened due to slow onset events such as sea level rise and other natural hazards including storm-surges. The country has a largely 
+maritime tropical weather, marked by rainfall variability, early onset and prolonged droughts, and warming- evident by a 1oC rise in the average temperature. The 
+trade winds and monsoon winds that can reach speeds of 100km/s in Moroni, at times exhibit a cyclonic nature, and the variance between the warmest and coolest 
+average temperature is in the order of 4oC. 
+
+#### Emerging Climate Trends 
+Given the 1960 to 1989 period, a steady reduction in rainfall was observed between 1960 and 1975. In 1976, the rainfall pattern surged, followed by strong 
+fluctuations for the remaining period. The intense rainfall peaks that were observed in 1976 could be attributed to El Niño, which has been increasing in 
+frequency and intensity in East Africa region in the last half century. According to the NAPA, these trends are predicted to continue into the future. What is 
+more, the frequency of cyclones and storms is predicted to intensify with increasing unpredictability. In the Comoros, 23 cyclones were reported between 1911 and 
+1961, 13 cyclones between 1967 and 1986 and in 2004 numerous losses in human lives and damages were reported as a result of forceful cyclones in the South West 
+region of the Indian Ocean.  
+
+As a result of irregular rainfall patterns, the Comoros has experienced shortened periods of the rainy season from 6 months to 3 months, with a shift to the dry 
+season and the persistence of drought. The variation in rainfall is also expected to alter the temporal and spatial distribution of available water resources 
+important for agricultural production. It therefore follows that these trends cause long-term modifications in the vegetation cover and livestock availability.  
+
+For the last thirty years, the warming of the Comoros has exhibited through the rise in the minimum and maximum temperatures. The 1961 to 2008 period depicted a 
+15% decrease in cold days and nights, and a 20% increase in hot days and nights across the country. Furthermore, warming in the order of 1oC was observed over 
+the 1961 to 2008 period with a variation of +/- 0.2oC per decade.  
+
+#### Future Climate Scenarios: Projected Future Climate 
+Although the Comoros is a carbon sink of Greenhouse Gases (GHGs) and only contributes minimally to emissions (2.3 teq CO2/hab/yr), it is still threatened by the 
+impacts of climate change. The predicted impacts that the country faces include a decrease in agriculture and fishery production, loss of biodiversity, 
+displacement of over 10% of the population that reside in coastal areas, contamination of groundwater sources due to saltwater intrusion and a rise in the 
+incidence of malaria cases6.  
+
+According to the IPCC, climate change scenarios for SIDS in the Indian Ocean for the 2040-2069 period indicate an increase in the annual average rainfall in the 
+order of 3.1% (+/– 0.45%) with a decrease in the annual average rainfall during the dry season by a range of about -2.6% to -1.8 %. With respect to annual 
+average temperatures, IPCC scenarios for the islands of the South West part of the Indian Ocean indicate an increase of 2.10oC in the 2040-2069 period. 
+Furthermore, sea level rise is predicted to reach 0.20m by 2050. Considering a 1.5oC rise in the average ocean temperature, coral whitening would cause the 
+damage or even death of coral reefs and lead to the reduction of marine flora and fauna, including reef fish. This would have a direct impact on deep sea fishery 
+resources due to declining fish populations and could lead to the loss of income for those working in the fishery sector.  
+
+Tourism services would be adversely affected due to damage or destruction to coral reefs. According to the NAPA, the economic valuation of tourist services with 
+respect to coral reefs under the jurisdiction Mohéli Marine Park is USD $3.5 million, representing 1.3% of GDP7. Ultimately, the impacts of emerging climate 
+trends are numerous. The Comoros is expected to endure intensified soil erosion, hotter summers, frequent droughts particularly north of the islands and 
+accelerated sea level rise, which would have adverse impacts on tourism, port facilities and human settlements8.  
+
+The Second National Communication describes the climate scenarios for the Comoros grounded on IPCC projections for future (2025, 2050 and 2100) temperature and 
+rainfall based on the 1961-2000 reference period. The predictive results are obtained by using the MAGICC/SCENGEN software that explores future climate change 
+and its uncertainties. The Special Report on Emission Scenarios has four sets of scenarios called “families”: A1, A2, B1 and B2. The A1 scenario depicts a future 
+of very rapid economic growth and global population that peaks mid-century and declines thereafter, given the rapid introduction of new and efficient 
+technologies. The A2 scenario describes a very heterogenous world, with continuously increasing global population and fragmented economic growth and 
+technological change. The B1 scenario, similar to A1 describes global population peaking mid-century and declining thereafter, with an emphasis on environmental 
+sustainability.  
+
+According to the Second National Communication, the warming of temperature scenarios in the Comoros, projected for the 100-year horizon between 2000 and 2100 is 
+grounded on the following assumptions: 
+
+- a) Scenario B (low pathway): increase of 1.27oC on average (probable range: 0.16oC to 2.9oC) 
+
+- b) Scenario A1B (intermediate pathway): increase of 1.40oC on average (range probable: 0.16oC to 2.70oC 
+
+- c) Scenario A2 (high pathway): increase of 1.46oC on average (probable range: 0.16oC to 3.22oC) 
+
+By 2025, the evolution of average temperatures will lead to monthly temperature increases, the highest of which will be observed from the months of January to 
+April and November to December. This will translate to a rise in average temperatures between 0.61 and 0.78oC, and a decrease in average rainfall by 14% for the 
+month of October.  
+
+By 2050, rainfall is predicted to marginally increase for the months of December to April, and decrease for the remainder of the year. At the national level, 
+this will result in an increase in average temperature between 1.26oC and 1.47oC.  
+
+By 2100, warming of temperatures will intensify with a variation in average temperatures of about 1.99oC to 2.35oC. The temperature rise will be marked in the 
+north of the islands. Thermal variation also indicates a near doubling in temperature from 2050 to 2100. Rainfall predictions suggest a significant reduction 
+between the months of August and November.  
+
+Based on these climate scenarios, Scenario B1 shows warming of temperatures of 0.16oC in 2000 to 2.29oC in 2100, suggesting a temperature rise of 2.13oC over the 
+course of the century. Whereas, scenario A2 predicts a more pronounced warming of temperatures of 3.06oC. 
+
+### ASSESSMENT OF KEY SYSTEMS
+
+#### Agriculture 
+The Comoros’ economy is highly reliant on the agriculture sector and gives way to 66.9% of jobs for women and 51.2% of jobs for men. The primary sector employs 
+70% to 80% of the active population and contributes to 98% of export revenues given a limited range of cash crops. The Comoros exports crop commodities such as 
+vanilla, cloves and ylang-ylang, which comprise 90% of the country’s total exports. At present, the Comorian export market is underdeveloped and vulnerable to 
+world market fluctuations. Given that agriculture production is mainly for domestic consumption, only 30% of total production is allocated for commercial 
+purposes. The country’s dependency on the import of food products is however increasing; currently the country imports almost 95% of its rice for consumption. 
+Food crop production includes bananas, tomatoes, coconuts, corn, beans, cassava, yam, taro, sweet potatoes and other tubercles. What is more, agriculture in the 
+Comoros only covers 40% of the food needs of the population and follows a strictly pluvial practice, one that is largely focused on subsistence but not 
+sufficiently mechanized. Chemical fertilizers are used sparingly, if at all, and the agricultural sector benefits rather minimally from investments.
+
+##### Priority Area: Development of Crop Commodities
+Agriculture represents 90% of the total land area in Anjouan, 77% of Mohéli and 61% of Grande Comore based on four farming systems, which include open field food 
+crop production, traditional agroforestry, cultivation in natural forests and monoculture farming. Agriculture in the Comoros is influenced by both endogenous 
+and exogenous constraints such as population growth that has surpassed growth in agricultural production as well as changes in local diets with a proclivity 
+towards imported food products. The supply chain for export crop commodities comprise vanilla, ylang-ylang and cloves. Despite its low productivity, vanilla 
+holds the highest value in terms of exports, comprising 43% of export production. However, vanilla production has fallen from 200 tonnes in the 1990s to 50 
+tonnes in 2009.
+
+_Figure 2 ylang-ylang flower (Cananga Odorata) and basket of cloves (Anjouan, Comoros)_
+
+![image](https://user-images.githubusercontent.com/64316315/109802033-9294fc80-7c1f-11eb-8fa6-ed60d6210074.png)
+
+![image](https://user-images.githubusercontent.com/64316315/109802070-9fb1eb80-7c1f-11eb-9603-a05c8f494f5a.png)
+
+_Source: Gettyimages and Marco Casiraghi_
+
+The Comoros is one of the leading producers of ylang-ylang, meeting an estimated 70% of global demand, however, production of the essential oil has been in long 
+term decline over the past 30 years. Ylang-ylang oil is a key ingredient in many fine fragrances. The Cananga Odorata crop is produced by smallholder farmers in 
+Anjouan and Mohéli, subsequent to which, the flowers are distilled by small distillers.  Ylang-ylang oil is used in many high-end perfumeries, which makes it all 
+the more attractive for export production. In consideration of the export-oriented agriculture, a few limitations need to be address that involve low-tech 
+farming practices using rudimentary equipment for power-intensive operations such as plowing, threshing and harvesting activities. Low mechanization together 
+with variable technical capacities among farmers result in lower quality crop production. Ultimately, a priority for the Comoros will be to revive ylang-ylang 
+production and improve vanilla and clove exports by enhancing the technical and operational capacity of domestic producers in line with international quality 
+standards. Notwithstanding, climate change impacts such as temperature and rainfall variability, sea level rise and probable salt water intrusion in coastal 
+areas, could affect ylang-ylang plantations, which could lead to the loss of income for producers and affect export revenues.  
+
+##### Vulnerability of the Agriculture Sector 
+The impacts of climate change and climate variability on the biophysical process of natural ecosystems generates potential harms to the agriculture sector. It 
+causes the delay of fruit maturation as a consequence of prolonged droughts and high temperatures. What is more, the reproduction cycle of plant and crop 
+parasites and disease agents such as coconut aleurodidae (Aleurotrachelus Atratus) coincide with the crop production cycle. New parasites continue to emerge and 
+parasites that were previously regulated are re-emerging and at times in their most virulent forms, causing the destruction of crops. This decrease in 
+agricultural productivity leads to the loss of income, livelihoods and intensifies issues of food insecurity. When coupled with extensive agriculture, high costs 
+to access food and dependence on food imports, this renders a large segment of the population vulnerable.  
+
+As detailed in the Second National Communication, the key socioeconomic impacts on agriculture include: (I) prolonged droughts and water shortages, (II) 
+degradation of cultivable land, (III) decrease in the production of specific cultivars, (IV) increased food insecurity, (V) lower agricultural income, and (VI) 
+increased unemployment and precarious work, particularly among young people.   
+
+##### Exposure to Climate Impacts and Risks 
+The agriculture sector in the Comoros bears threats due to climate change impacts such as thermal stresses to the environment including the warming of 
+temperature in extremes, including the prevalence of crop diseases caused by parasitic and disease agents, and changes in rainfall patterns and rainfall 
+intensity. Heavy rains, a pronounced dry season and high temperatures accelerate the degree soil erosion, land degradation and desertification, with adverse 
+effects to the integrity of agricultural lands. According to the NAPA, a total of 65 335 acres of agricultural lands, which represents 57.5% of the total 
+agriculture area, are degraded. Moreover, the North West and South East regions, which comprise eroded coast zones 1.5km to 3km long, pose flood risks from sea 
+level rise and experience more water shortages than all other agricultural regions in the Comoros. The country is further exposed to strong cyclones and their 
+subsequent destruction of crops, triggering a reduction in crop yields and causing disruption to food security. Climate impacts and subsequent risks to livestock 
+involve plant and cattle diseases (e.g., Newcastle disease and smallpox) that lead to livestock death, degradation of grazing pastures and health impediments to 
+existing cattle such as growth retardation, reduction in milk production and sensitivity to diseases.   
+
+[Projected Impact on the Agriculture Sector:] 
+
+In the Comoros, changes in rainfall will cause the reduction of river flows and waterfalls that will lead to reduced water availability required for agriculture. 
+To date, the country has experienced a decrease in rainfall by about 0.5mm per annum. Disruptions to the agro-climatic zones triggers a drier climate that causes 
+changes to local water resources. All in all, marginal variations in temperature and precipitation are causing major shifts in the water flow, particularly in 
+Ndzouani and Mwali. The drop in local agricultural production will affect livelihoods and dimmish purchasing power of consumers, whereas a surge in the global 
+demand of major crops will cause a 25% to 150% increase in the price of rice, wheat and maize by 2060.  
+
+##### Adaptation Options
+- Examination into and enhancement of cultural practices to reduce the impacts of water and thermal stress 
+
+- Surveying and development of crop varieties resistant to water and thermal stress, to ensure food security 
+
+- Offering technical advice and extension services to producers on production techniques to generate high quality yields 
+
+- Development and adoption of heat-resistant cultivars 
+
+- Enhancement of farming practices that reduce pests and crop/plant diseases  
+
+- Floodproofing’ measures (such as elevation of living spaces)  
+
+- Adoption of climate smart agricultural techniques 
+
+- Promotion of agroforestry  
+
+- Grouping of farmers into cooperatives and pooling of equipment and resources 
+
+- Improvement to land-use planning  
+
+- Marketing of new soil protection techniques 
+
+- Provision of improved access to microcredits to procure farming equipment and machinery 
+
+- Establishment of agricultural insurance schemes or risk transfer mechanisms to protect against loss of or damage to crops or livestock 
+
+- Development of an integrated pest management program  
+
+- Relaunching of national research and extension programs 
+
+#### Fisheries
+Despite a 12-mile territorial sea and 200-mile exclusive zone, fisheries in the Comoros are largely small-scale and harness around 10 000 tonnes of fish 
+production annually10. The fishery sector is among the key sectors in the Comoros and plays a critical role in the economy. In many ways it supports job creation 
+and income generation for a large segment of the society and contributes significantly to improving food security. The Second National Communication estimates 
+that the fishery sector provides 8,500 direct jobs for fisherman and an additional 24,000 indirect jobs in shipyards, marketing and equipment stores11. The 
+Comoros lacks an offshore industrial fishery and the industrial fisheries that exist are those exploited by distant fishing nations. In fact, between the 2007 
+and 2012 period, an estimated 22 000 tonnes of fish resources per annum were caught by fishing vessels flagged in the Comoros harvesting fish in the Economic 
+Exclusion Zone (EEZ)12. What is more, inland fishing is acutely rare due to the dearth of rivers, water courses and lakes and semi-industrial fishing and 
+aquaculture are non-existent. The totality of fishery products is marketed locally or consumed fresh. The processing of fish is minimal and limited to salt cured 
+fish and fish smoking as preservation methods.   
+
+_Figure 3 Capture production by inland and marine waters of the Union of the Comoros (tonnes)_
+
+![image](https://user-images.githubusercontent.com/64316315/109802422-13ec8f00-7c20-11eb-805b-919d3a2b7641.png)
+
+_Sources: FAO FishStat_ 
+
+Traditional fishing in the Comoros accounts for 40% of the dietary need in terms of animal proteins, comprising an estimated per capita consumption of 25.2 kg in 
+2011. The Comorian people exhibit a preference of reef fish to pelagic fish. The offshore pelagic potential amounts to 20 000 tonnes, yet only 30% of pelagic 
+fish have been sustainably exploited. Fish resources in the Comoros consist of offshore and coastal pelagic species, demersal species and reef species. The 
+demersal resources of the continental plateau, which covers 900km2, are estimated to be 450 to 1 350 tonnes per annum, while coastal pelagic resources 
+amount to 900 to 2 700 tonnes per annum.  
+
+Artisanal fishing takes places by means of small fiber glass motorized boats ranging from 6.3m to 7.1m in length. As of 2012, there were a total of 5 800 boats 
+across the Comorian islands, of which 30% comprised motorized fishing boats. Traditional fishing is described by the use of non-motorized wooden outrigger boats 
+(canoes) and account for 70% of the vessels surveyed. The national production of fish has increased from 6 000 tonnes in 1985 to 16 200 tonnes in 2004, which has 
+contributed to the abandonment of fresh fish imports and has amply added foreign currency to the domestic revenue base. National fishing catches are distributed 
+across the 3 islands of the Comoros, 60.8% from Grande Comore (Ngazidja), 29.6% from Anjouan (Ndzouani) and 9.6% from Mohéli (Mwali), 60% of which constitute two 
+main species, namely the skipjack tuna and yellowfin tuna.
+
+_Figure 4 Wooden boats in the old harbor of Moroni, Grande Comore, Comoros_
+
+![image](https://user-images.githubusercontent.com/64316315/109802511-3088c700-7c20-11eb-8de7-129bb4fcbbbe.png)
+
+_Sources: Gettyimpages_
+
+##### Priority Area: Fish Conservation and Preservation   
+Means of preservation extend the storage life of fish without substantially altering its natural state. Losses of catch due climate impacts such as high 
+temperatures in the absence of means of preservation to reduce post-harvest losses in fisheries, leads to a decrease in fisherman’s income. Therefore, proper on-
+board handling of fish, for example ensuring fish are chilled and that good hygiene conditions prevail to avoid cross contamination, as well as ensuring the 
+physical integrity of fish to avoid bruising and damage to fish flesh and accelerated spoilage is a priority for the Comoros. Moreover, the conservation of 
+fisheries is critical to the ecological balance of the marine system, the social well-being of the population and the economic growth potential of the country. 
+In the Comoros, fishing during cyclonic periods and heavy rains leads to limited catch and a chronic deficit of fish in the market, especially for poorer 
+populations. Construction of conservation facilities for fish as well as selective fishing gear that avoids the capture, retention, and subsequent discarding of 
+immature fish and unwanted species is increasingly important for the country’s ecological sustainability. 
+
+##### Vulnerability of the Fishery Sector 
+Sea level rise and shifts in coastal hydrodynamic processes could impact coastal areas by causing flooding and saltwater intrusion, while warming of temperatures 
+could threaten the health and integrity of coral reefs across the islands. Limited income and social protection mechanisms make it further challenging for 
+fishermen to invest in small-infrastructures or facilities such as cold storages or ice machines to help preserve fishery resources and reduce post-harvest 
+losses. Due to constraints in establishing means of preservation that extend the storage life of fish, ‘fish conservation under ice’ is among the main adaptation 
+priorities described in the NAPA. This would not only benefit fisherman but the entirety of local actors across the fish supply chain, including fishmongers and 
+local suppliers. 
+
+##### Exposure to Climate Impacts and Risks 
+The worsening of climatic conditions, specifically the frequency and intensity of storms, cyclones and other extreme weather events render fishery activities 
+unmanageable and often result in the loss of fisherman’s income and pose adverse impacts on tourism services. Whitening of coral reefs has historically been an 
+issue for the Comoros. In particular in 1997, a rise in sea temperatures in the range of 1 oC to 1.5oC relative to average temperatures of 26 oC to 28 oC caused 
+the whitening and death of approximately 60% of coral reefs across the islands. The destruction of coral reefs also promotes the acceleration of coastal erosion 
+and the contraction in in the number of reef fish, including juvenile fish populations.  
+
+##### Adaptation Options 
+- Fish Concentration Mechanisms, which will facilitate an increase in catches, in order to better value the contribution in time worked  
+
+- Investment in small-infrastructures and facilities for fishing communities e.g., cold storage, ice-machine and landing sites, with proper management systems to ensure their sustainable use 
+
+- Construction of conservation facilities for fish 
+
+- Means for reducing post-harvest losses in fisheries 
+
+- Means of preservation that will extend the storage life without substantially altering the nature of the raw material 
+
+- Selective fishing gear that avoids the capture, retention, and subsequent discarding of immature fish and unwanted species 
+
+- Proper on-board handling of fish, for example ensuring fish are chilled and good hygiene conditions prevail to avoid cross contamination 
+
+#### Water Resources 
+Climate variability has led to the decline in rainfall in the country, which has severely impacted the quality and quantity of freshwater. High temperatures have 
+further accelerated evapotranspiration, which has contributed to the reduction in the supply of groundwater reservoirs. Surface water in Anjouan and Mohéli are 
+mainly supplied through river water and wells, whereas water resources in Grande Comore are primarily supplied through coastal aquifers.  In the Comoros, as is 
+the case in a number of LDCs, the reduction of water resources influences the availability of potable water. At present, the quantity of potable water is 
+insufficient to meet the population’s needs. The coverage of the population with access to drinking water comprises 30% of the population of Grande-Comore, 15% 
+of Anjouan and 80% of Mohéli. Rainfall fluctuations, seasonal disturbances and prolonged droughts are some of the determinants of persistent water shortages, 
+which create issues in the implementation of basic domestic activities such as food preparation, maintenance of hygienic conditions and waste treatment. 
+Furthermore, the agriculture and livestock sectors are highly dependent on the availability, accessibility and quality of freshwater sources. Banana trees for 
+instance, are often hacked and used to water cattle, however this practice results in undernutrition and produces high susceptibility to parasitic diseases such 
+as theileriosis. Cases of theileriosis in cattle have led to the deaths of 20% of bovines in Grand-Comoro between 2002 and 2003. 
+
+##### Priority Area: Extend water supply and improve water quality   
+Improving the water supply by strengthening water distribution networks and enhancing water quality are identified as strategic priorities in response to the 
+vulnerabilities of the water resources sector. Such vulnerabilities include poor water management, low supply of potable water and inadequate coastal and flood 
+protection measures. As local communities play an integral role in sharing local and indigenous knowledge on water resource management with a focus on 
+sustainability, their participation is vital to the success of adaptation projects and programs. Indeed, the construction of barrages and dams to collect and 
+store rainwater and the regulation of river water based on existing hydrographic networks across the three islands underpinned by an inclusive stakeholder 
+approach, will be critical. Ultimately, the establishment of sound watershed management is expected to support the sustainable distribution of water resources, 
+help visualize current land use and the varying degrees of degradation, and support the development of future scenarios against which plans can be made to 
+protect and improve the quality of water and other natural resources.  
+
+##### Vulnerability of the Water Resources Sector 
+The environment radiates a natural fragility and holds a limited availability of critical resources such as freshwater. There is great variability in rainfall 
+across the Comorian islands. The profile of Grande Comore soils exhibit high permeability. The lack of surface water also puts downward pressure on groundwater 
+systems required to collect and store rainwater. Water tanks are often left uncovered and are poorly maintained. Contamination of groundwater aquifers due to 
+exposed water tanks and saltwater encroachment along the coastal zone increase the prevalence of malaria and other vector-borne and waterborne diseases. Coastal 
+waters are typically brackish as a result of saltwater intrusion. Conversely, Mohéli and Anjouan are originally endowed with quasi hydrophobic soils and a dense 
+hydrographic network. However, river and stream flows have declined considerably over the last two decades. Previously, there were over 40 rivers to supply the 
+islands’ population with water. Today, fewer than 20 rivers remain and during warmer months, surface water evaporates, increasing incidences of siltation. On the 
+island of Grande-Comore, the freshwater supply stems from basalt tanks which requires maintenance that often falls short13.  
+
+##### Exposure to Climate Impacts and Risks 
+Climate change impacts on the water resources sector have been demonstrated in myriad ways. In recent years, the groundwater has been depleted in the dry season. 
+In Grande-Comore sea level rise has led way to saline intrusion of coastal aquifers, which has altered the quality of freshwater with damaging effects for crop 
+irrigation and groundwater supplies. A survey in the 1980s revealed that after the excavating of 44 exploration wells in the coastal zone, only 24 wells 
+demonstrated salinity under 3g/l. Follow up evaluations undertaken in 1997 disclosed that over half of the surveyed wells were not functional and an estimated 
+31% displayed issues related to pumping and sewage facilities.  
+
+Decreased precipitation has narrowed the hydrographic network and disrupted the fragile balance between freshwater and saltwater resources. The encroachment of 
+seawater is particularly harmful to coastal communities that depend on the freshwater for household activities and farming practices. The risk of contamination 
+of freshwater is high, owing to high soil porosity and an upsurge in the concentration of sodium chloride as a result of seawater intrusion14. The loss of 
+freshwater vegetation could indirectly impact the dietary composition of affected populations.  
+
+Based on a bacteriological analysis conducted in Anjouan to test microbiological parameters of freshwater, 60% of the collected water was shown to be 
+contaminated. Contaminated water is also a known cause of hepatitis A and typhoid fever, which are both transmitted through ingestion of contaminated food and 
+water, and have plagued the island for many years, causing adverse health effects and even death.  
+ 
+##### Adaptation Options 
+- Increase in water supply by strengthening water distribution networks and infrastructure 
+
+- Reconstruction of basin slopes 
+
+- Promotion of small hydraulic installations and protection of hydrological units 
+
+- Involvement of local communities in planning and sustainable management of water resources 
+
+- Construction of artificial lakes, barrages and dams to store rain and river water 
+
+- Construction of reservoirs of drinking water and preservation of water quality 
+
+- Introduction of monitoring policies of resources and use of appropriate tools (techniques and juridical), for the control rivers and forests 
+
+- Examination of current and future availability and demand of water resources  
+
+- Preparation of a comprehensive assessment of the available hydrological potential, including groundwater resources 
+
+- Assessment of biophysical features, such as climate, geology, topography, soils, water quality and quantity in terms of infiltration rates and runoff, natural 
+vegetation, fauna 
+
+- Assessment of socioeconomic conditions, and livelihoods analysis e.g., major resource user groups, farming systems, actual land uses, local institutions and 
+service providers, and relevant policies and laws 
+
+- Watershed/ River basin mapping and zoning to visualize current land uses, the degree of degradation, etc., and to develop future scenarios 
+
+- Action research for joint problem analysis, the identification of solutions, and immediate field-testing and validation of improved practices in each area 
+
+- Establishment of watershed/ river basin management committees; preparation of watershed management/ river basin management plans 
+
+- Implementation of prioritized activities; monitoring and documentation of processes, results and impacts; and capacity building for all stakeholder 
+
+#### Energy  
+According to the literature, a well-defined energy policy for the Comoros does not yet exist, however, a strategy for the diversification of energy sources is 
+under development. A mere 25% of Comorian households are connected to the power grid. The high cost of accessing electric power is sighted as the main barrier 
+for poorer households. The electricity supply is described as erratic in major towns and is essentially nonexistent in rural areas. As such, the government and 
+people of the Comoros are determined to pursue GHG emission reduction targets and transition to renewable energy sources.  
+
+The energy supply in the country is dominated by fuelwood (78%) as a result of biomass exploitation in domestic activities and for its part in powering 
+operations in ylang-ylang distilleries. Imported petroleum products constitute 20% for their use in electricity and transport, while butane gas (2%) represents a 
+small amount of the energy supplied. There is a strain on already depleted fuelwood resources and limits in terms of alternative sources of energy. In regards to 
+biomass, alternative plants such as oilseed plants (i.e., coconut, sesame, peanut and Jatropha Curcas) are being explored with the view to generate bioenergy.  
+
+Despite its hydroelectric potential, the islands of the Comoros have an estimated 1 MW of installed hydroelectric capacity16 and further studies are required to 
+assess the country’s full hydropower potential. The country is deficient in oil and gas reserves and it also exhibits a low potential to harness wind power. 
+Whereas, geothermal energy satisfies the country’s ability to meet the population’s energy demands. According to a UNEP country brief, the geothermal reservoir 
+on Grande Comore based on a rift system linked to active volcanos (namely the Karthala and La Grille), could be potentially tapped. Solar energy also 
+demonstrates great potential for expansion as the islands experience an average of 500 wh/m2 equivalent to 8hrs/day of sunshine17. What is more, numerous solar 
+installations exist at both domestic and commercial levels and even hotels are shifting to solar energy to reduce their carbon footprint and contribute to a 
+green economy. 
+
+ ##### Priority Area: Biomass (Exploration into fuelwood alternatives) 
+The energy sector in the Comoros is characterized by numerous constraints, power supply in major towns is erratic and essentially non-existent in rural areas, 
+for example sources of lighting in rural expanses are limited to small paraffin lamp with wicks. As a priority adaptation option among renewable energies, 
+biomass operates as a renewable and sustainable source of energy. Biomass fuels includes those derived from wood, charcoal, scrap lumber, forest debris, and 
+certain varieties of waste residues. By sustainably exploiting wood and charcoal alternatives, such as oilseed plants (i.e., coconut, sesame, peanut and Jatropha 
+Curcas), biomass could offer relatively cleaner fuels that could be used for cooking and heating in homes, and as a fuel alternative (e.g., ethanol) in 
+transportation and power generation. Biomass power plants that use biomass-derived waste to generate electricity, could in the long run contribute to carbon 
+neutral electricity by supporting the transition away from traditional fossil fuel usage towards an alternative energy source, which produces relatively less GHG 
+emissions from wood waste or other organic residuals. This in turn advances adaptation and mitigation efforts by offering an accessible, cost efficient, 
+renewable energy source that improves air quality in the process.    
+
+##### Vulnerability of the Energy Sector 
+The Comoros lacks a clear and sustainable energy policy at the national level. Policy reforms enacted in the 1990s in favor of fossil fuels that encouraged the 
+use of oil in lieu of fuelwood, influenced the level of emissions for that period. Specifically, biomass emissions amounted to 242 728 tonnes of CO2 in 2002 
+against 328 000 tonnes in 1994. Higher emissions were accounted for during that period due to the retrogression towards fossil fuels. In addition to the adverse 
+environmental impacts of fossil fuel usage, imported petroleum and hydrocarbons incur high costs. In 2009, the Voidjou power plant in Grande-Comore was impacted 
+by catastrophic disaster. The total installed power capacity fell from 18MW and currently stands at 12 MW, however only 5MW is available. The capacity factor of 
+power plants in Anjouan and Mohéli similarly represent under 50% of the installed capacity. The power grid is faulty which generates losses of 40% of the total 
+electricity production. These factors among others, are relevant to the fact that 75% of Comorian households are not connected to the power grid. Hydropower 
+energy production falls during the dry season when water resources diminish. Lack of funding is also a significant factor in the Comoros’ inability to fully 
+pursue the development of hydroelectric power. While biomass is a preferred renewable energy source for its waste reduction capacity, versatility and 
+accessibility, biomass from wood does not burn entirely clean and contributes to massive deforestation when not properly managed. Forest clearing, particularly 
+in rural areas are common due to the need of firewood and timber. This presents an opportunity for the sustainable land use management.   
+
+##### Exposure to Climate Impacts and Risks 
+In consideration of the two main primary energy sources, namely biomass and hydrocarbons, the exposure to climate impacts and risks should be carefully assessed. 
+First, the extensive use of biomass has put a strain on already depleted fuelwood resources and if not adequately and sustainably managed could intensify current 
+levels of deforestation. In effect, emissions emanating from the energy sector increases with population growth and the energy needs of the transport and 
+industrial sectors. The very high costs of electric energy and oil have already resulted in the extensive felling of trees for firewood to meet household 
+consumption. Land degradation, landslides and soil erosion could further impair an already fragile natural system. As rainfall fluctuations become more 
+pronounced, this could directly impact biomass production. The irregular supply of groundwater, especially the depletion of freshwater reservoirs in the drier 
+periods, increases the vulnerability of natural and human systems. Therefore, improved water harvesting techniques and infrastructure (e.g., dams and pits) and 
+functional irrigation systems are critical to ensure water resource efficiency. Climate change further impacts the reproduction cycles, distribution, and 
+intensity of pests and diseases.  
+
+The Comoros’ disaster risk profile indicates that the greatest flood hazard associated with tropical cyclones occurs on Anjouan and Mohéli, while storm surges 
+are greatest along the southern and eastern coasts of the Comoros18. Such extreme weather events could impact the productivity of biomass feedstocks. Further to 
+this, the greatest absolute risk of loss from earthquakes is Grande Comore. Although infrequent, inquisitions should be made as part of a study on the potential 
+effects of earthquake and volcano (specifically, the Karthala and La Grille) interactions on geothermal energy production in the Comoros.  
+
+##### Adaptation Options 
+- Developing the capacity of the energy sector in the Comoros and implementing cost reductions related to energy consumption by households 
+
+- Promoting the use of appropriate renewable energy-based lamps  
+
+- Improving energy efficiency, particularly that of biomass  
+
+- Soil and nutrient management to ensure richness of biomass feedstocks 
+
+- Investing in conservation measures against deforestation, and promoting massive afforestation and reforestation in and around river basins  
+
+- Ensuring irrigation efficiency, stress-resistant crop varieties, and improved land management  
+
+- Improved flood protection mechanisms and expansion of rainwater harvesting and water storage to enhance feedstock productivity 
+
+- Development of robust biomass power plants 
+
+- Use of multi-hazard early warning systems for rainfall and temperature extremes to support emergency harvesting in advance of extreme weather events 
+
+- Ensuring resilient ecosystems through implementation of targeted biodiversity policy measures 
+
+- Behavioral adaptation measures that educate local communities on various forms of renewable energies and the need to retire/phase out fossil fuels 
+
+- Promotion of agroforestry techniques to enhance soil fertility, soil moisture and increase soil organic matter 
+
+#### Biodiversity 
+The Comoros is an archipelago, which covers a total surface area of 2236km2, comprising four volcanic islands situated along 225km of a submarine shelf. It is 
+marked by its volcanic landscape, small size and insularity. The Exclusive Economic Zone (EEZ) is approximately 160 000km2, with 900km2 of continental shelf and 
+427km of coastline19. In the Comoros, there are an estimated 2000 plant species such as the Khaya, the Comorensis, the Ocotea and the Tambourissa leptophylla on 
+the islands of Grande Comore, Anjouan and Mohéli. The country boasts 50 species of coral that cover 60% of the coast of Grande Comore, 80% of Anjouan and almost 
+100% of Mohéli. Mammal species include the Livingstone's fruit bat, the Mongoose lemur and the Comoro rousette. Endemic bird species comprise the Karthala white-
+eyes, the blue pigeon and the Karthala scops owl, among others. While endemic reptile species include the Comoro Flapnose Chameleon and the Comoro Clawless 
+Gecko.  
+
+_Figure 5 Moya beach on the island of Anjouan_
+
+
+![image](https://user-images.githubusercontent.com/64316315/109803153-fec43000-7c20-11eb-91a5-d18d0c180169.png)
+
+_Sources: Gettyimpages_
+
+The islands of the Comoros have an extremely narrow continental shelf of volcanic origin and subsequent poor development of coral reefs. Still, the coastal and 
+marine ecosystem on Grande Comore is rich and diverse including coral reefs, mangroves, seagrass beds, tri-colored beaches, lava flows, and islets. Coral reefs 
+are home to key species such as the hawksbill turtle as well as mollusks, sea cucumbers and reef fish, essential for ensuring food security and coastal 
+livelihoods. Seaweed beds are recognized for their high productivity and abundance of fauna, they also serve as habitat for the green turtle (Chelonia Mydas) and 
+the dugong (Dugong Dugon). Islets are vital for seabirds and home to turtle nesting sites where marine turtles lay their eggs. Coral reef systems are 
+characterized as diverse, complex and among the most productive of the marine systems. Coral reefs serve as green infrastructure based on their natural coastal 
+protection mechanisms, absorbing between 70% to 90% of wave energy. Coastal areas of the islands are rich in biodiversity and home to endemic species including 
+ecosystems with significant ecological value. Further to this, Lake Dizan Boudouni covers a surface area of 30 acres in the southern part of the island of Mohéli 
+and is highlighted for its biodiversity of flora and fauna of great scientific interest.  
+
+_Figure 6 (left) Green sea turtle (Chelonia Mydas) in Mayotte and (right) a green Hawksbill turtle in Mayotte_
+
+![image](https://user-images.githubusercontent.com/64316315/109803251-1dc2c200-7c21-11eb-89ba-8bf6fa6cf825.png)
+
+_Sources: Gettyimpages_
+
+##### Priority Area: Protection of biodiversity and coastal ecosystem 
+The Comoros is characterized as a biodiversity hotspot with high endemic species and key threats. Yet the potential of the biodiversity is not well understood, 
+which leads to weak environmental protection as well as the misuse and mismanagement of natural resources and natural habitats. The Comoros harbors the most 
+important eggs-laying site for marine turtles in the Indian Ocean and the 10th in the world20. It therefore follows that a key priority area for the Comoros is 
+the protection of marine turtles and their natural habitat along the coastal zone. Climate impacts such as sea level rise and saltwater intrusion exacerbate 
+coastal erosion, which when coupled with the exploitation of beach aggregates, results in the diminution in the number of sea turtles. The disappearance of sea 
+turtles is predicted to have an adverse effect on major economic activities related to the tourism sector, upon which it depends. The income generated from 
+trading beach aggregates (inert granular materials such as sand, gravel, or crushed stone) support the livelihoods of coastal inhabitants. However, the 
+extraction of aggregates in coastal zones has physical and environmental implications for the erosion of the coastal land. In the absence of coastal management 
+policies and practices, tourists that are drawn to observing nesting sea turtles in their natural habitats will likely look to other tourism destinations where 
+protection and conservation are prioritized.  
+
+##### Vulnerability of the Biodiversity Sector 
+The natural environment in the Comoros is described as fragile.  The area classified as a “hotspot zone” is highly endemic yet exposed to threats. Anthropogenic 
+effects such as the mismanagement of natural resources leads to poor protection and subsequent exploitation of natural resources. For example, population growth 
+and increasing poverty combined with deforestation stemming from unsustainable agricultural practices could threaten the country’s national biodiversity 
+heritage. Auspiciously, the adoption of the National Environmental Policy of 1993 has to some degree created an enabling environment for the protection of 
+biodiversity and the promotion of environmentally sustainable agricultural production. With respect to fresh waterbodies, the Grande Comore lacks permanent river 
+systems. The soils are composed of porous basaltic base of limited use. In effect, fragile soils are vulnerable to erosion, including gully erosion, and tectonic 
+instability. The low pluviometry, particularly in the eastern parts of the islands contributes to degraded soils and coastal erosion. Additionally, the lack of 
+monitoring mechanisms and available data on open sea marine resources intensifies vulnerabilities of the marine system. Pollution as a result of marine gasoil 
+from fishing vessels, and overfishing of species affect the integrity of seagrass beds, while sea turtles are contemporaneously threatened by beach degradation, 
+attenuation of seagrass beds and unsustainable poaching practices. Coastal and marine species, specifically immature fish and unwanted species, are also 
+occasionally captured, retained, and subsequently discarded. To boot, there has been a steady exploitation of local demersal resources.   
+
+ ##### Exposure to Climate Impacts and Risks 
+The influence of climate on the biophysical process in the Comoros has been widely observed. For instance, rainfall fluctuates at varying altitudes and at 
+different levels of wind exposure. There are changes in average climatic conditions and seasonal discrepancies, with impacts to the hydrologic cycle, causing 
+rivers to dehydrate. Increases in flood risk, decreases in groundwater level and acceleration of soil erosion are also evident. With respect to the oceanographic 
+system, very strong currents have been observed at the western region of the island of Anjouan.  
+
+The impacts of climate change are predicted to reduce agriculture and fishery production, cause the loss of biodiversity, and contaminate freshwater resources, 
+including aquifers along the coast due to seawater encroachment and increases in the prevalence of infectious diseases such as typhoid and malaria. Saltwater 
+intrusion often also produces brackish water along the coast. Such impacts are expected to drive the displacement of over 10% of coastal inhabitants. 
+
+Anthropogenic effects of development such as overfishing and unsustainable fishing practices that involve the use of dynamite or poisonous substances, pollution 
+such as waste dumping and soil runoff, together with the exploitation of coral and beach aggregates continue to threaten natural systems. Coral reef systems are 
+at risk of destruction. It is estimated that by 2030, 60% of all coral reefs will be impacted by anthropogenic activities such as pollution as well as ocean 
+acidification, as a consequence of the absorption of CO221. The phenomenon of climate-induced coral bleaching due to sudden changes in ocean temperature remains 
+a risk. By 2050, bleaching of corals in the Comoros will result in a 90% mortality rate of coral reefs in the Comoros. Comparably, nearly all species of 
+mangroves are predicted to disappear by 2050 due to global temperature rise. While sea level rise is expected to destroy all the remaining mangroves that would 
+have survived global warming. 
+
+##### Adaptation Options 
+- Conservation and sustainable management of biodiversity, including wildlife in protected areas and forests 
+
+- Reforestation and rehabilitation of degraded and desolate lands while conserving natural biodiversity  
+
+- Cataloguing of national forest and marine genetic resources to assess climate resilience 
+
+- Promotion of best practices in forest, coastal and marine genetic resource management, specifically in the areas of conservation, exploration, testing, breeding and sustainable use 
+
+- Promotion of biodiversity conservation and sustainable management of natural resources 
+
+- Enacting laws and policies on the prohibition of extraction and trading of beach aggregates  
+
+- Monitoring and evaluation of coastal management practices 
+
+- Investing in well-designed coastal protections such as dikes, levees and groins to reduce expected damages and enhance cost efficiency  
+
+- Protection of the coastline through ‘soft’ protection measures such as beach nourishment and wetland restoration 
+
+- Enforcement of coastal zoning regulations that prohibit construction in flood areas 
+
+- Measurement of beach dynamics for modelling future climate scenarios such as sea level rise and storm surges 
+
+- Control of land-based and ocean-based activities to reduce pollution and lower sedimentation, especially in coastal and marine areas    
+
+#### Tourism  
+The Comoros tourism sector, although in an embryonic stage of development displays strong potential for expansion. Tourism in the Comoros is described as 
+offering a rich biologically diverse ecosystem, with natural resources of great global and scientific interest. The tourism sector is globally acknowledged as a 
+climate-sensitive economic sector. Both demand and supply side stakeholders are directly impacted by climate variability and extreme weather events including 
+secondary effects on a broad range of natural resources that are critical for the tourism sector. Prior to 1989, tourism was predominantly driven by business 
+activities, missions and visits by the Comorian diaspora. However, since the opening of hotel Galawa in 1989, tourism in the Comoros has taken a shift towards 
+leisure. Although, since 2000 the number of incoming tourists has plummeted, from 27 474 tourists in 1998 to 18 900 tourists in 2003. Compared to other island 
+destinations in Africa such as Mauritius and the Seychelles, the hotel occupancy rate in the Comoros is exponentially lower. What is more, quality of standard 
+and comfort is not consistently upheld. Despite the 600 personnel employed in hospitality services, a majority of hotel establishments are in fact managed by 
+nonprofessionals and poorly trained hotel staff. Under current conditions, the Comoros tourism industry is confronted by a number of challenges that will 
+influence its long-term development and success, among these include climate change and sustainability, human resources, and productivity and competitiveness23. 
+
+ ##### Priority Area: Ecotourism  
+Promotion of the Mohéli marine park would help develop ecotourism in the archipelago, providing effective economic incentives to support conservation and improve 
+the bio-cultural diversity and protect the natural and cultural heritage of the country. The marine park would serve as a marine protected area to safeguard a 
+section of the ocean by imposing limits on human activity. In regards to the economic value of tourist services such as the coral reefs, the Mohéli Marine Park 
+is an estimated 1.2 billion Comorian Francs equivalent to USD $3.5 million. Further to the promotion of the marine park, national tourist services in the Comoros 
+need to be improved. Currently, there are insufficient tourist services and hotel accommodation capacity is limited. Improvements in terms of basic hotel 
+infrastructure, education and training of hotel personnel and tourism-related workers, and enhancements with respect to public information on tourism information 
+resources is required. 
+
+##### Vulnerability of the Tourism Sector 
+The tourism sector in the Comoros is underexploited and according to the Second National Communication, tourism and hospitality services are inadequate and 
+accommodation capacities are quite limited. For instance, there are less than 500 beds with an annual occupancy rate of under 40%. Education and skills 
+development are also critical for tourism destination countries and a persistent challenge in LDCs. In order to meet tourism growth, the Comoros will need to 
+focus on service quality standards both physically via hospitality and accommodation services, and virtually by means of expedient tourism information resources 
+websites.  
+
+Sand mining of beaches accelerates coastal erosion and is expected to negatively affect the future development of tourism. The national economy and the 
+livelihoods of coastal communities is largely provisional on the tourism and fishery sectors. The disappearance of sea turtles is also predicted to have an 
+adverse effect on major economic activities related to the tourism sector. 
+
+ ##### Exposure to Climate Impacts and Risks 
+The Comoros is expected to endure intensified soil erosion, hotter summers, frequent droughts particularly north of the islands and accelerated sea level rise, 
+which would have adverse impacts on tourism, port facilities and human settlements24. These climate trends are predicted to cause changes to the country’s 
+vegetation cover, with consequences to the subsistence of certain plant and animal species and cause the destruction of natural habitats. According to the 
+literature, several beaches namely those in Itsandra, Mitsamihouli, Maloudja, Chomoni and those belonging to the islands of Nioumachoua, Moya, Ouani and Mirontsi 
+are expected to disappear due to sea level rise. Based on economic projections, the loss of tourism revenue associated with the disappearance of beaches is 
+estimated to be reach the current value 40 billion Comorian Francs by 205025.  
+
+Floods and cyclones are expected to cause major damage to dwellings, property and critical infrastructure, as well as affect inhabitants and destroy crops. 
+Damages to hotels and tourist centers, including roads, airport facilities and water and sewage systems could directly undermine the tourism sector. In the 
+absence of coastal management policies and practices, tourists that are drawn to observing nesting sea turtles in their natural habitats will likely look to 
+other tourism destinations where protection and conservation measures are prioritized. Coral bleaching and the subsequent destruction of coral reefs as a result 
+of climate change will not only impact the livelihoods of coastal communities and put pressure on food security, but also destabilize an economy that is highly 
+dependent on the growth of the tourism sector.  
+
+ ##### Adaptation Options 
+- Sustainable development and promotion of the Mohéli marine park  
+
+- Preparation of a climate change risk assessment for the tourism industry 
+
+- Creation of risk maps (e.g., for floods, landslides and coastal erosion) for planning tourism development projects 
+
+- Monitoring of eroded coastal zones (e.g., beaches)  
+
+- Ensure principles of public-private cooperation in the tourism sector 
+
+- Training of National Agencies in monitoring climate change effects on coastal resources, natural systems beneficial to tourism and natural attractions (beaches, reefs) 
+
+- Conducting environmental audits and retrofit programs for hotels and marinas to add climate change component 
+
+- Ensuring new infrastructure incorporates a hazard-resistant designs and retrofitting existing buildings and coastal structures 
+
+- Using an integrated approach to tourism development across a wide spread of government ministries and integrating green agenda policies into tourism and non-
+tourism policies 
+
+- Education and training focused on developing customer-service skills for local front-line staff to deliver high quality tourism services to visitors27  
+
+- Well-targeted tourism policies to promote innovation (e.g., human resources, knowledge, R&D, information technology), the development of new business models, and a dynamic culture of enterprise28  
+
+#### Disaster Risk Management 
+Disaster risk reduction is still a nascent area of work in the Comoros. According to the NAPA, disaster risk management and coordination mechanisms are still 
+under development and en route to being operationalized. In the country, disaster risks are closely associated with climate change risks and impacts. A segment 
+of Comoros’ INDC that focuses on risk management includes priorities such as capacity building of Geographic Information Systems (GIS), development of risk 
+assessments, awareness raising to improve the understanding of disaster risks, and preparation of civil society on disaster risk management. According to the 
+2020 human development indicators for the Comoros, a mere 29.2% of Comoros’ population reside in urban areas29. Analysis indicates that on average, the Comoros 
+has around USD $5.7 million in combined direct losses from earthquakes, floods and tropical cyclones every year30. Tropical cyclones pose the most significant 
+risk of the three hazards, producing an estimated 64% of the average loss per annum. Cyclones such as the one that took place in 1950, claimed 524 lives on the 
+island of Grande Comore and equivalent losses were recorded on the other islands. Beyond this, seven severe cyclones and storm surges occurred between 1986 and 
+1999 in the Comoros.  
+
+##### Priority Area: Building the capacities of GIS, EWS and disaster risk assessments 
+In order to be successful, climate change adaptation and disaster risk reduction strategies require public interest, leadership, and acceptance31. The IPCC 
+suggests that based on the knowledge of disaster risk research and findings, the condition for understanding climate risks and extreme events involves knowledge 
+of different key elements. These include, understanding the exposure within its spatial and temporal dimensions, recognizing drivers of vulnerability, and ways 
+in which climate change influences hazards. Key for the Comoros will be the development of technical capacities and measures that include Geographic Information 
+System (GIS), Early Warning Systems (EWS), disaster risk assessments and risk communication between decisionmakers and local inhabitants. Risk communication 
+failures experienced in other countries suggest that trust in official institutions responsible for early warning and disaster management in the Comoros is vital 
+for reducing disaster risks.  Moreover, it is important to engage different stakeholders to process the existing or impending challenges and identify respective 
+solutions.   
+
+##### Vulnerability of the Disaster Risk Management System 
+There are numerous disaster risks in the country, which involve volcanic eruptions in Grande Comore, as well as tropical cyclones, floods and to a lesser extent, 
+tsunamis. Eruptions of the Karthala volcano on Grand Comore have, on three occasions, resulted in the evacuation of many towns situated on the slopes of the 
+mountain. Other disasters on Grande Comore based on anthropogenic hazards include the Voidjou power plant disaster in September 2009, characterized as one of the 
+worst disasters of its time. In general, the Comoros’ status an LDC and SIDS renders it highly vulnerable to climate change impacts and extreme weather. 
+According to literature, the Comoros displays a vulnerability rate of 82.1% based on the 2011 Human Development Report, which indicates the country’s high level 
+of exposure to numerous natural risks and threats.  
+
+The increase in intensity and frequency of extreme weather and slow onset events such as floods and droughts, exacerbate vulnerability to infectious diseases, 
+trigger disasters and destruction of natural resources, and perpetuate socioeconomic problems associated with daily life. Forced migration and displacement due 
+to extreme weather would be difficult to control. Weather-related disasters in the Comoros deprive households of secure dwellings, and cause the destruction of 
+pastures and meadows which disrupt farmers’ means of agricultural production and subsistence. Loss of productivity in sectors such as commerce, energy and 
+transport, together with secondary effects in all other economic sectors limit future investments and put downward pressure on consumption, ultimately lowering 
+GDP. Increased vulnerability in the absence of social protection mechanisms suggests insufficient means and opportunities to recover from climate and disaster 
+related shocks. The combination of the status of socioeconomic development in the country, coupled with climate sensitive resources such as water, forests and 
+soils, and the level of development of critical infrastructure, is too precarious to reasonably offset the effects of climate change and climate variability.   
+
+##### Exposure to Climate Impacts and Risks 
+Earthquakes, floods and tropical cyclones comprise the three most common hazards in the Comoros. Other natural hazards include landslides, wind, storm surges, 
+excessive rainfall and earthquakes. Anjouan incurs the highest economic losses of the three islands, amounting to 80% of the average annual losses from all three 
+hazards across the archipelago. The greatest wind hazard is in the northeast and southeast of Anjouan. The greatest flood hazard due to tropical cyclones is in 
+Anjouan and Mohéli. While the greatest storm hazard runs along the southern and eastern coasts of the Comoros. The residential sector is generally the hardest 
+hit and experiences 80% of the combined losses, followed by 11% of losses in the public sector and 6% in the commercial sector32. Direct losses total USD $5.7 
+million from earthquakes, floods and tropical cyclones every year. The losses of human lives are linked to the resurgence of infectious diseases. Climate risk 
+associated with seasonal drought is expected to lead to 34% loss of human life, while cyclonic events are predicted to cause a 24% loss in human life33.  
+
+Further to this, the 100-year return period loss from earthquakes, floods and cyclones totals over $48 million which is equivalent to about 8% of the Comoros’ 
+GDP in 2014. The assessed total replacement value in 2015 for all residential, industrial and public buildings and other infrastructure was reported to be nearly 
+USD $2.6 billion. The island of Grande Comore exhibits the largest concentration of replacement value. With respect to occupancy type, the residential sector 
+reports above 66% of the toral replacement value34.
+
+_Figure 7 Direct losses by Hazard_
+
+![image](https://user-images.githubusercontent.com/64316315/109803802-c709b800-7c21-11eb-9dd2-05d5b2cfb32e.png)
+
+_Sources: Gettyimpages_
+
+##### Adaptation Options 
+- Setting-up of a multi-hazard early warning systems and surveillance systems   
+
+- Establishing coastal protection measures (dikes, embankments, sea walls and surge barriers)  
+
+- Provision of access to climate- and disaster-related information (both emergency information and training programmes),  
+
+- Provision of economic resources including financial means such as micro-credit and resilience insurance   
+
+- Provision of different tools, methodologies, and sources of knowledge (e.g., expert/scientific knowledge, local or indigenous knowledge) that allow capturing new hazards, risk, and vulnerability profiles, as well as risk perceptions 
+
+- Ensuring adequate risk communication to reach different audiences to make risk comprehensible, exploring ways to understand audience values, anticipating the 
+audience’s response to the communication, and improving awareness and decision making 
+
+- Integration of climate and disaster risk policies and considerations into sector policies and management plans 
+
+- Creation of a database and a Geographic Information System (GIS) to better anticipate, respond to and manage disaster risks  
+
+- Strengthening of national security systems and response to affected individuals or communities in case of a disaster  
+
+- Establishment of a National Committee for Risk and Disaster Management 
+
+- Establishment of a General Directorate of Civil Security (DGSC) within the Ministry  
+
+#### Waste and Sanitation  
+The anarchic development of urban centers marked by informal housing and spontaneous districts has increased risks of pollution in the country. There are no 
+sustainable waste management solutions in the Comoros, which is a significant cause for concern as open burning of household waste is common and largely 
+uncontrolled. The Second National Communication highlights that inadequate waste management and cleaning systems increase the prevalence of infectious diseases 
+such as malaria and typhoid, and present potential risk of contamination of groundwater reservoirs and damage to coral reef systems. The deterioration of coral 
+reefs results from exposure of the reefs to unsustainable fishing practices such as the use of dynamite, uncontrolled anchoring of ships, treading at low tide, 
+waste dumping and soil runoff35. Anthropogenic hazards coupled with climate variability, magnifies the effects of coral bleaching, which is caused by the 
+precipitous warming of ocean temperatures. In the Comoros, waste is scattered along the coastal zone and in the vicinity of townships and metropolitan areas. The 
+lack of a drainage and waste management system also signals that wastewater flows directly into the ocean. Water distribution infrastructure needs to be 
+adequately developed and managed, water tanks need to be covered to reduce the risk of vector-borne diseases, and the treatment and disposal of municipal, 
+industrial and other solid waste should be prioritized.  
+
+##### Priority Area: Improve urban waste management system  
+Population growth, expressly in urban areas, and the lack of waste management causes the indiscriminate dumping of household waste in close proximity to coastal 
+areas and the ocean, with harmful effect on the marine system. In the absence of proper waste management system and sanitation systems, public health issues 
+arise as wastewater and solid waste discharges generate the spread of communicable diseases. In addition, improper disposal of waste directly contributes to air 
+pollution. Whereas the urban waste management system consists of a number of septic tanks to dispose of sewage in towns, in rural expanses households rely on pit 
+latrines. In consideration of the fact that a large concentration of solid waste emanates from large cities, as a priority, the focus will be upon improving the 
+urban waste management system.  
+
+ ##### Vulnerability of the Waste Sector  
+The aggregate amount of urban solid waste disposed in landfill sites is estimated at 28.37 Gg per year36. In effect, the low levels of emissions of solid waste 
+in landfills is explained by lack of adequate waste collection and disposal methods in the country. Municipal solid waste and wastewater form main sources of GHG 
+emissions in the waste sector. The methods used for the disposal of solid waste are linked to aerobic decomposition, which produces low levels of emissions. 
+Still, in the Comoros, a mere 2% of the population predominantly situated in urban areas use toilets with a flush mechanism. Based on a study highlighted in the 
+Second National Communication, findings suggest that there is a lack of substantial disparities between urban and rural expanses, as over 79% of the population 
+continue to use traditional latrines for waste treatment and disposal. In Grande Comore, 60% of the population is dependent on uncovered water containers and 40% 
+of the population is reliant on coastal aquifers. Challenges in terms of access to clean water still persist. Deterioration in the quality of potable water as a 
+result of contamination from products of weathering and erosion, human and animal excrement, and other hazardous waste and chemicals, and other issues such as 
+chronic problems with water supply, as well as high costs to access water all contribute to the vulnerabilities of the waste sector.  
+
+ ##### Exposure to Climate Impacts and Risks 
+In the Comoros, pollution from waste, which is diversified and large in quantity, is principally concentrated in large cities along the coast. Due to high 
+reliance on imports, most of the waste that is identified consists of mainly imported and non-biodegradable products such as plastic, glass and metal37. When 
+waste is incorrectly disposed, blocked drainage systems and stream flows can generate flood disasters. Major risks of pollution are further aggravated in the 
+open sea by large oil tankers. Whereas, illegal waste dumping can trigger the spread of infectious diseases and vermin, as well as increase the risk of 
+contamination of groundwater reservoirs and coral degradation38. Waste incineration is also a contributor to GHG emissions for its role in the release of dioxins 
+and furans into the atmosphere. Improper treatment and disposal of wastes that go unchecked result in contamination of waterbodies, which cause biodiversity loss 
+due to chemicals and harmful toxins that destroy terrestrial or marine fauna and flora. In the absence of solid waste management, waste such as sewage sludge, 
+special waste and leachate can pollute waterbodies with irreparable harm. 
+
+##### Adaptation Options 
+- Development or transfer of appropriate technologies and systems for wastewater treatment 
+
+- WASH awareness campaigns and education on proper waste disposal and hygiene practices to ensure behavioral change 
+
+- Source separating solid wastes for composting, recycling, anaerobic digestion or special disposal 
+
+- Improving coordination with municipalities at all district levels in the collection and verification of data on solid waste and relevant reporting procedures  
+
+- Ensuring political will and commitment to improving solid waste management, supported by a strong regulatory environment 
+
+- Ensuring the necessary infrastructure is in place to support sustainable waste management 
+
+- Creation of outlets for buying of recyclable wastes in every community including job creation or entrepreneurial development schemes
 
 
 ## National Adaptation Priorities
