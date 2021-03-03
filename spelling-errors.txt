@@ -15,7 +15,7 @@ ANACM
 ANCAR
 Anjouan
 annum
-anthropogenic
+Anthropogenic
 Aqaba
 Artisanal
 Arusha
@@ -31,6 +31,7 @@ capita
 Casiraghi
 Cataloguing
 CCA
+CDRRMP
 CGP
 Chelonia
 chikungunya
@@ -42,6 +43,7 @@ Comores
 Comorian
 Comorians
 Comoro
+costal
 CRCCA
 CRCCA’s
 CSP
@@ -98,16 +100,18 @@ hawksbill
 heterogenous
 HFA
 hotspot
+hotspots
 hydrographic
 hydrologic
 hydrological
 HYDROMET
-Hydropower
+hydropower
 Hyogo
 INDC
 insalubrity
 intertropical
 IPCC
+IRP
 Itsamia
 Itsandra
 janeroe
@@ -132,7 +136,7 @@ microclimates
 microcredits
 Mirontsi
 Mitsamihouli
-modelling
+Modelling
 Mohéli
 Mohéli
 monoculture
@@ -168,7 +172,7 @@ pre
 PRGS
 PRGSP
 ProgEau
-programme
+Programme
 programmes
 Projet
 retinopathy
@@ -190,10 +194,13 @@ storages
 surveyance
 sylvo
 Tambourissa
+TBD
 teq
 TFP
 theileriosis
 toral
+trainings
+transformative
 tri
 UCCIA
 underexploited
@@ -209,7 +216,7 @@ volcanos
 waterbodies
 wh
 workstreams
-XXXX
+xxxx
 XXXXXXXX
 yellowfin
-ylang
+Ylang
