@@ -7,12 +7,12 @@
       "manubot"
     ],
     "lang": "en-US",
-    "date-meta": "2021-02-28",
+    "date-meta": "2021-03-03",
     "author-meta": [
       "John Doe",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2021-02-28\" />\n<meta name=\"citation_publication_date\" content=\"2021-02-28\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://opennaps.github.io/comoros/\" />\n<meta property=\"og:url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta property=\"twitter:url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta name=\"citation_pdf_url\" content=\"https://opennaps.github.io/comoros/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://opennaps.github.io/comoros/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2021-03-03\" />\n<meta name=\"citation_publication_date\" content=\"2021-03-03\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://opennaps.github.io/comoros/\" />\n<meta property=\"og:url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta property=\"twitter:url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://opennaps.github.io/comoros/\" />\n<meta name=\"citation_pdf_url\" content=\"https://opennaps.github.io/comoros/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://opennaps.github.io/comoros/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,7 +22,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "February 28, 2021",
+    "date": "March 3, 2021",
     "authors": [
       {
         "github": "johndoe",
@@ -72,19 +72,19 @@
       "repo_slug": "opennaps/comoros",
       "repo_owner": "opennaps",
       "repo_name": "comoros",
-      "commit": "19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0",
-      "triggering_commit": "19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0",
-      "build_url": "https://github.com/opennaps/comoros/commit/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/checks",
+      "commit": "240142a84116c4193d4699c252e62567fd321418",
+      "triggering_commit": "240142a84116c4193d4699c252e62567fd321418",
+      "build_url": "https://github.com/opennaps/comoros/commit/240142a84116c4193d4699c252e62567fd321418/checks",
       "job_url": "https://github.com/opennaps/comoros/runs/run3"
     },
     "html_url": "https://opennaps.github.io/comoros/",
     "pdf_url": "https://opennaps.github.io/comoros/manuscript.pdf",
-    "html_url_versioned": "https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/",
-    "pdf_url_versioned": "https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/manuscript.pdf",
+    "html_url_versioned": "https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/",
+    "pdf_url_versioned": "https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/manuscript.pdf",
     "manubot_version": "0.5.0",
     "rootstock_commit": "52ab9dc8bba4d0c6cee348fa9d7b0b764a89ffcf",
     "manuscript_stats": {
-      "word_count": 372
+      "word_count": 5331
     }
   }
 }
