@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/opennaps/comoros/tree/gh-pages) branch hosts the contents of this directory at <https://opennaps.github.io/comoros/>.
-The permalink for this webpage version is <https://opennaps.github.io/comoros/v/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0/>.
+The permalink for this webpage version is <https://opennaps.github.io/comoros/v/240142a84116c4193d4699c252e62567fd321418/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://opennaps.github.io/comoros/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0`](https://github.com/opennaps/comoros/commit/19f092592f6d9a29c73cc87dfaf1cdb872bf3ff0).
+[`240142a84116c4193d4699c252e62567fd321418`](https://github.com/opennaps/comoros/commit/240142a84116c4193d4699c252e62567fd321418).
